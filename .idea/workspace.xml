@@ -7,28 +7,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d6c8c87-f700-4b89-9d6c-35b361999218" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_persistence_db_1_0_0_rc1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_persistence_db_framework_1_0_0_rc1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_persistence_room_common_1_0_0_rc1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_persistence_room_runtime_1_0_0_rc1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_persistence_room_rxjava2_1_0_0_rc1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_7_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_timber_timber_4_5_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_logging_interceptor_3_4_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_4_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_9_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_retrofit2_converter_gson_2_1_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_retrofit2_retrofit_2_1_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava2_rxjava_2_0_6_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_reactivestreams_reactive_streams_1_0_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/douglas/offlinefirstsample/model/Comment.kt" />
-      <change beforePath="$PROJECT_DIR$/OffLineFirstSample.iml" afterPath="$PROJECT_DIR$/OfflineFirstSample.iml" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/douglas/offlinefirstsample/ExampleUnitTest.kt" afterPath="$PROJECT_DIR$/app/src/test/java/com/douglas/offlinefirstsample/CommentUnitTest.kt" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/douglas/offlinefirstsample/model/Comment.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/douglas/offlinefirstsample/model/Comment.kt" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/douglas/offlinefirstsample/CommentUnitTest.kt" afterPath="$PROJECT_DIR$/app/src/test/java/com/douglas/offlinefirstsample/CommentUnitTest.kt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,7 +40,30 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Comment.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/douglas/offlinefirstsample/model/Comment.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="41" column="98" lean-forward="false" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="98" />
+              <folding>
+                <element signature="e#46#257#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommentUnitTest.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/test/java/com/douglas/offlinefirstsample/CommentUnitTest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -2934,8 +2947,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/douglas/offlinefirstsample/model/Comment.kt" />
         <option value="$PROJECT_DIR$/app/src/test/java/com/douglas/offlinefirstsample/ExampleUnitTest.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/douglas/offlinefirstsample/model/Comment.kt" />
         <option value="$PROJECT_DIR$/app/src/test/java/com/douglas/offlinefirstsample/CommentUnitTest.kt" />
       </list>
     </option>
@@ -2974,6 +2987,19 @@
               <item name="OfflineFirstSample" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="OfflineFirstSample" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="offlinefirstsample" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OfflineFirstSample" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="offlinefirstsample" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OfflineFirstSample" type="1abcf292:AndroidViewProjectNode" />
@@ -3047,6 +3073,31 @@
       <option name="PACKAGE_NAME" value="com.douglas.offlinefirstsample" />
       <option name="MAIN_CLASS_NAME" value="com.douglas.offlinefirstsample.CommentUnitTest" />
       <option name="METHOD_NAME" value="constructor_isFillInObject" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/app" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="CommentUnitTest.toString_containsFilds" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.douglas.offlinefirstsample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="app" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.douglas.offlinefirstsample" />
+      <option name="MAIN_CLASS_NAME" value="com.douglas.offlinefirstsample.CommentUnitTest" />
+      <option name="METHOD_NAME" value="toString_containsFilds" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -3205,15 +3256,17 @@
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Android App.app" />
       <item index="1" class="java.lang.String" itemvalue="Android JUnit.CommentUnitTest.constructor_isFillInObject" />
       <item index="2" class="java.lang.String" itemvalue="Android JUnit.CommentUnitTest" />
+      <item index="3" class="java.lang.String" itemvalue="Android JUnit.CommentUnitTest.toString_containsFilds" />
     </list>
     <recent_temporary>
-      <list size="2">
+      <list size="3">
         <item index="0" class="java.lang.String" itemvalue="Android JUnit.CommentUnitTest" />
-        <item index="1" class="java.lang.String" itemvalue="Android JUnit.CommentUnitTest.constructor_isFillInObject" />
+        <item index="1" class="java.lang.String" itemvalue="Android JUnit.CommentUnitTest.toString_containsFilds" />
+        <item index="2" class="java.lang.String" itemvalue="Android JUnit.CommentUnitTest.constructor_isFillInObject" />
       </list>
     </recent_temporary>
   </component>
@@ -3234,15 +3287,40 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CommentUnitTest - 2018.11.27 at 14h 03m 12s.xml">
+    <history-entry file="CommentUnitTest - 2018.11.27 at 14h 49m 47s.xml">
       <configuration name="CommentUnitTest" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="CommentUnitTest_constructor_isFillInObject - 2018.11.27 at 14h 01m 03s.xml">
-      <configuration name="CommentUnitTest.constructor_isFillInObject" configurationId="AndroidJUnit" />
+    <history-entry file="CommentUnitTest - 2018.11.27 at 14h 55m 17s.xml">
+      <configuration name="CommentUnitTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CommentUnitTest_toString_containsFilds - 2018.11.27 at 14h 45m 17s.xml">
+      <configuration name="CommentUnitTest.toString_containsFilds" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CommentUnitTest_toString_containsFilds - 2018.11.27 at 14h 46m 15s.xml">
+      <configuration name="CommentUnitTest.toString_containsFilds" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CommentUnitTest_toString_containsFilds - 2018.11.27 at 14h 46m 42s.xml">
+      <configuration name="CommentUnitTest.toString_containsFilds" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CommentUnitTest_toString_containsFilds - 2018.11.27 at 14h 47m 23s.xml">
+      <configuration name="CommentUnitTest.toString_containsFilds" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CommentUnitTest_toString_containsFilds - 2018.11.27 at 14h 48m 09s.xml">
+      <configuration name="CommentUnitTest.toString_containsFilds" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CommentUnitTest_toString_containsFilds - 2018.11.27 at 14h 48m 28s.xml">
+      <configuration name="CommentUnitTest.toString_containsFilds" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CommentUnitTest_toString_containsFilds - 2018.11.27 at 14h 48m 49s.xml">
+      <configuration name="CommentUnitTest.toString_containsFilds" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CommentUnitTest_toString_containsFilds - 2018.11.27 at 14h 49m 29s.xml">
+      <configuration name="CommentUnitTest.toString_containsFilds" configurationId="AndroidJUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1003" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -3253,7 +3331,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -3303,10 +3381,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/douglas/offlinefirstsample/CommentUnitTest.kt">
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="38" column="67" lean-forward="false" selection-start-line="38" selection-start-column="67" selection-end-line="38" selection-end-column="67" />
+        <state relative-caret-position="225">
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -3314,17 +3392,17 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/douglas/offlinefirstsample/model/Comment.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
-          <caret line="37" column="38" lean-forward="false" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+          <caret line="41" column="98" lean-forward="false" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="98" />
           <folding>
             <element signature="e#46#257#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/douglas/offlinefirstsample/CommentUnitTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        <state relative-caret-position="810">
+          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
           <folding />
         </state>
       </provider>

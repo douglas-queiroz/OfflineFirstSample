@@ -38,4 +38,20 @@ class CommentUnitTest {
         assertNull("Timestamp is not null", comment.timestamp)
         assertNull("Sync Pending is not null", comment.syncPending)
     }
+
+    @Test
+    fun toString_containsMainFields() {
+
+        val id: Long = 1
+        val photoId: Long = 1
+        val commentText = "Comment text"
+        val timestamp: Long = 1
+        val syncPending = false
+
+        val comment = Comment(id, photoId, commentText, timestamp, syncPending)
+        val commentToString = comment.toString()
+
+        val regex = Regex(".+$id.+$photoId.+$commentText.+$syncPending")
+        assertTrue(commentToString.contains(regex))
+    }
 }

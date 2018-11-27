@@ -37,4 +37,8 @@ class Comment: Serializable {
         this.timestamp = timestamp
         this.syncPending = syncPending
     }
+
+    override fun toString(): String {
+        return "Comment id: $id, photo Id; $photoId text: $commentText, syncPending: $syncPending"
+    }
 }

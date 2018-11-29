@@ -15,6 +15,7 @@ project.ext {
     testEspressoCoreVersion = "3.0.2"
     okHttpVersion = "3.4.1"
     priorityJobQueueVersion = "2.0.1"
+    playServicesVersion = "11.4.2"
 }
 
 android {
@@ -54,6 +55,9 @@ dependencies {
 
     // Priority Job Queue
     implementation "com.birbit:android-priority-jobqueue:$project.priorityJobQueueVersion"
+
+    //GCM Network Manager
+    implementation "com.google.android.gms:play-services-gcm:$project.playServicesVersion"
 
     // GSON Converter
     implementation "com.squareup.retrofit2:converter-gson:$project.retrofitVersion"
